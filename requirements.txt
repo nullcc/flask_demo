@@ -1,0 +1,3 @@
+--index https://pypi.doubanio.com/simple
+
+Flask==0.10.1
